@@ -10,19 +10,21 @@ body {
 	background-size: cover;
 }
 .text{
-	padding-top: 8rem; /**how far from top**/
+	padding-top: 11rem; /**how far from top**/
 	width: 90%;/*cat din lungimea paginii sa ocupe*/
-	margin: 0 auto;*/
-	text-align: center;
+	margin: 0 auto;
 	color: #333;
 }
 .quote{
-	font-family: Avantgarde, sans-serif;
+	font-family: 'Optima', sans-serif;
 	font-size: 2.5rem;
+	word-spacing: 0.8rem;
+	text-align: center;
 }
 .author{
 	padding-top: 6rem;
 	font-family: 'Crimson Text', serif;
 	font-size: 1.5rem;
 	font-style: italic;
+	text-align: center;
 }
